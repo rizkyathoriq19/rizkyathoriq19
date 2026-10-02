@@ -37,7 +37,7 @@ I enjoy working on systems where **software meets real-world processes**.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,go,cs" />
+<img src="https://skillicons.dev/icons?i=ts,go,cs,cpp" />
 </p>
 
 ### Frontend
@@ -112,24 +112,6 @@ Enterprise systems · RBAC · LDAP/AD · REST API · Fullstack
 <tr>
 <td width="50%" valign="top">
 
-## 📋 PowerApproval
-
-Enterprise approval workflow application.
-
-Designed around business workflows, role-based access, backend services, and integration with existing enterprise systems.
-
-**Stack**
-
-`ASP.NET Core` `React` `TypeScript`
-
-**Focus**
-
-Workflow · RBAC · Enterprise integration
-
-</td>
-
-<td width="50%" valign="top">
-
 ## 🏭 Industrial Automation
 
 Software and automation projects involving industrial controllers, sensors and communication protocols.
@@ -147,67 +129,6 @@ Automation · IoT · Industrial communication · Data acquisition
 </table>
 
 ---
-
-# 🧩 What I Like Building
-
-```text
-             ┌─────────────────────────────┐
-             │           PRODUCT            │
-             └──────────────┬──────────────┘
-                            │
-                 ┌──────────▼──────────┐
-                 │       FRONTEND      │
-                 │ React / Next / TS   │
-                 └──────────┬──────────┘
-                            │
-                    REST / WebSocket
-                            │
-                 ┌──────────▼──────────┐
-                 │        BACKEND      │
-                 │ Go / .NET / Node.js │
-                 └──────────┬──────────┘
-                            │
-             ┌──────────────┼──────────────┐
-             │              │              │
-        PostgreSQL        Redis       Kafka/Redpanda
-             │              │              │
-             └──────────────┼──────────────┘
-                            │
-                 ┌──────────▼──────────┐
-                 │   INFRASTRUCTURE    │
-                 │ Docker · Linux · VPS│
-                 └─────────────────────┘
-```
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=rizkyathoriq19&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-height="170"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyathoriq19&layout=compact&hide_border=true&theme=transparent"
-height="170"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=rizkyathoriq19&theme=transparent&hide_border=true"
-width="70%"
-/>
-
-</div>
-
 
 # 🛠️ Current Interests
 
