@@ -208,20 +208,6 @@ width="70%"
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=rizkyathoriq19&theme=github-compact&hide_border=true&area=true"
-width="100%"
-/>
-
-</div>
-
----
 
 # 🛠️ Current Interests
 
