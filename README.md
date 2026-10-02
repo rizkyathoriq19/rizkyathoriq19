@@ -25,10 +25,8 @@ My work spans:
 
 * 🌐 Fullstack web applications
 * ⚙️ Backend & distributed systems
-* 🐳 Containerized infrastructure
 * 📡 Real-time communication
 * 🏭 Industrial automation & IoT
-* 🐧 Linux development environments
 
 I enjoy working on systems where **software meets real-world processes**.
 
@@ -57,7 +55,7 @@ I enjoy working on systems where **software meets real-world processes**.
 ### Data & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlserver,sqlite,redis,docker,linux,windows,nginx,iis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,linux,windows,nginx" />
 </p>
 
 ### Systems & Communication
